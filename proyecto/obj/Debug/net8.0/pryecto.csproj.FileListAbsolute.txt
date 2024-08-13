@@ -1,0 +1,132 @@
+C:\Users\manue\OneDrive\Escritorio\pryecto\bin\Debug\net8.0\pryecto.exe
+C:\Users\manue\OneDrive\Escritorio\pryecto\bin\Debug\net8.0\pryecto.deps.json
+C:\Users\manue\OneDrive\Escritorio\pryecto\bin\Debug\net8.0\pryecto.runtimeconfig.json
+C:\Users\manue\OneDrive\Escritorio\pryecto\bin\Debug\net8.0\pryecto.dll
+C:\Users\manue\OneDrive\Escritorio\pryecto\bin\Debug\net8.0\pryecto.pdb
+C:\Users\manue\OneDrive\Escritorio\pryecto\obj\Debug\net8.0\pryecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Escritorio\pryecto\obj\Debug\net8.0\pryecto.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Escritorio\pryecto\obj\Debug\net8.0\pryecto.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Escritorio\pryecto\obj\Debug\net8.0\pryecto.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Escritorio\pryecto\obj\Debug\net8.0\pryecto.dll
+C:\Users\manue\OneDrive\Escritorio\pryecto\obj\Debug\net8.0\refint\pryecto.dll
+C:\Users\manue\OneDrive\Escritorio\pryecto\obj\Debug\net8.0\pryecto.pdb
+C:\Users\manue\OneDrive\Escritorio\pryecto\obj\Debug\net8.0\pryecto.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Escritorio\pryecto\obj\Debug\net8.0\ref\pryecto.dll
+c:\Users\Ivo\Desktop\pryecto\bin\Debug\net8.0\pryecto.exe
+C:\Users\Ivo\Desktop\pryecto\bin\Debug\net8.0\pryecto.deps.json
+C:\Users\Ivo\Desktop\pryecto\bin\Debug\net8.0\pryecto.runtimeconfig.json
+c:\Users\Ivo\Desktop\pryecto\bin\Debug\net8.0\pryecto.dll
+c:\Users\Ivo\Desktop\pryecto\bin\Debug\net8.0\pryecto.pdb
+c:\Users\Ivo\Desktop\pryecto\obj\Debug\net8.0\pryecto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ivo\Desktop\pryecto\obj\Debug\net8.0\pryecto.AssemblyInfoInputs.cache
+c:\Users\Ivo\Desktop\pryecto\obj\Debug\net8.0\pryecto.AssemblyInfo.cs
+c:\Users\Ivo\Desktop\pryecto\obj\Debug\net8.0\pryecto.csproj.CoreCompileInputs.cache
+c:\Users\Ivo\Desktop\pryecto\obj\Debug\net8.0\pryecto.dll
+c:\Users\Ivo\Desktop\pryecto\obj\Debug\net8.0\refint\pryecto.dll
+c:\Users\Ivo\Desktop\pryecto\obj\Debug\net8.0\pryecto.pdb
+C:\Users\Ivo\Desktop\pryecto\obj\Debug\net8.0\pryecto.genruntimeconfig.cache
+C:\Users\Ivo\Desktop\pryecto\obj\Debug\net8.0\ref\pryecto.dll
+C:\Users\manue\OneDrive\Escritorio\pryecto json\bin\Debug\net8.0\pryecto.exe
+C:\Users\manue\OneDrive\Escritorio\pryecto json\bin\Debug\net8.0\pryecto.deps.json
+C:\Users\manue\OneDrive\Escritorio\pryecto json\bin\Debug\net8.0\pryecto.runtimeconfig.json
+C:\Users\manue\OneDrive\Escritorio\pryecto json\bin\Debug\net8.0\pryecto.dll
+C:\Users\manue\OneDrive\Escritorio\pryecto json\bin\Debug\net8.0\pryecto.pdb
+C:\Users\manue\OneDrive\Escritorio\pryecto json\obj\Debug\net8.0\pryecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Escritorio\pryecto json\obj\Debug\net8.0\pryecto.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Escritorio\pryecto json\obj\Debug\net8.0\pryecto.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Escritorio\pryecto json\obj\Debug\net8.0\pryecto.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Escritorio\pryecto json\obj\Debug\net8.0\pryecto.dll
+C:\Users\manue\OneDrive\Escritorio\pryecto json\obj\Debug\net8.0\refint\pryecto.dll
+C:\Users\manue\OneDrive\Escritorio\pryecto json\obj\Debug\net8.0\pryecto.pdb
+C:\Users\manue\OneDrive\Escritorio\pryecto json\obj\Debug\net8.0\pryecto.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Escritorio\pryecto json\obj\Debug\net8.0\ref\pryecto.dll
+C:\Users\manue\OneDrive\Escritorio\pryectogg\bin\Debug\net8.0\pryecto.exe
+C:\Users\manue\OneDrive\Escritorio\pryectogg\bin\Debug\net8.0\pryecto.deps.json
+C:\Users\manue\OneDrive\Escritorio\pryectogg\bin\Debug\net8.0\pryecto.runtimeconfig.json
+C:\Users\manue\OneDrive\Escritorio\pryectogg\bin\Debug\net8.0\pryecto.dll
+C:\Users\manue\OneDrive\Escritorio\pryectogg\bin\Debug\net8.0\pryecto.pdb
+C:\Users\manue\OneDrive\Escritorio\pryectogg\obj\Debug\net8.0\pryecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Escritorio\pryectogg\obj\Debug\net8.0\pryecto.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Escritorio\pryectogg\obj\Debug\net8.0\pryecto.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Escritorio\pryectogg\obj\Debug\net8.0\pryecto.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Escritorio\pryectogg\obj\Debug\net8.0\pryecto.dll
+C:\Users\manue\OneDrive\Escritorio\pryectogg\obj\Debug\net8.0\refint\pryecto.dll
+C:\Users\manue\OneDrive\Escritorio\pryectogg\obj\Debug\net8.0\pryecto.pdb
+C:\Users\manue\OneDrive\Escritorio\pryectogg\obj\Debug\net8.0\pryecto.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Escritorio\pryectogg\obj\Debug\net8.0\ref\pryecto.dll
+c:\Users\Ivo\Desktop\pryectogg\bin\Debug\net8.0\pryecto.exe
+C:\Users\Ivo\Desktop\pryectogg\bin\Debug\net8.0\pryecto.deps.json
+C:\Users\Ivo\Desktop\pryectogg\bin\Debug\net8.0\pryecto.runtimeconfig.json
+c:\Users\Ivo\Desktop\pryectogg\bin\Debug\net8.0\pryecto.dll
+c:\Users\Ivo\Desktop\pryectogg\bin\Debug\net8.0\pryecto.pdb
+c:\Users\Ivo\Desktop\pryectogg\obj\Debug\net8.0\pryecto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ivo\Desktop\pryectogg\obj\Debug\net8.0\pryecto.AssemblyInfoInputs.cache
+c:\Users\Ivo\Desktop\pryectogg\obj\Debug\net8.0\pryecto.AssemblyInfo.cs
+c:\Users\Ivo\Desktop\pryectogg\obj\Debug\net8.0\pryecto.csproj.CoreCompileInputs.cache
+c:\Users\Ivo\Desktop\pryectogg\obj\Debug\net8.0\pryecto.dll
+c:\Users\Ivo\Desktop\pryectogg\obj\Debug\net8.0\refint\pryecto.dll
+c:\Users\Ivo\Desktop\pryectogg\obj\Debug\net8.0\pryecto.pdb
+C:\Users\Ivo\Desktop\pryectogg\obj\Debug\net8.0\pryecto.genruntimeconfig.cache
+C:\Users\Ivo\Desktop\pryectogg\obj\Debug\net8.0\ref\pryecto.dll
+c:\Users\Ivo\Desktop\proyecto\bin\Debug\net8.0\pryecto.exe
+C:\Users\Ivo\Desktop\proyecto\bin\Debug\net8.0\pryecto.deps.json
+C:\Users\Ivo\Desktop\proyecto\bin\Debug\net8.0\pryecto.runtimeconfig.json
+c:\Users\Ivo\Desktop\proyecto\bin\Debug\net8.0\pryecto.dll
+c:\Users\Ivo\Desktop\proyecto\bin\Debug\net8.0\pryecto.pdb
+c:\Users\Ivo\Desktop\proyecto\obj\Debug\net8.0\pryecto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ivo\Desktop\proyecto\obj\Debug\net8.0\pryecto.AssemblyInfoInputs.cache
+c:\Users\Ivo\Desktop\proyecto\obj\Debug\net8.0\pryecto.AssemblyInfo.cs
+c:\Users\Ivo\Desktop\proyecto\obj\Debug\net8.0\pryecto.csproj.CoreCompileInputs.cache
+c:\Users\Ivo\Desktop\proyecto\obj\Debug\net8.0\pryecto.dll
+c:\Users\Ivo\Desktop\proyecto\obj\Debug\net8.0\refint\pryecto.dll
+c:\Users\Ivo\Desktop\proyecto\obj\Debug\net8.0\pryecto.pdb
+C:\Users\Ivo\Desktop\proyecto\obj\Debug\net8.0\pryecto.genruntimeconfig.cache
+C:\Users\Ivo\Desktop\proyecto\obj\Debug\net8.0\ref\pryecto.dll
+C:\Users\manue\OneDrive\Escritorio\proyecto\bin\Debug\net8.0\pryecto.exe
+C:\Users\manue\OneDrive\Escritorio\proyecto\bin\Debug\net8.0\pryecto.deps.json
+C:\Users\manue\OneDrive\Escritorio\proyecto\bin\Debug\net8.0\pryecto.runtimeconfig.json
+C:\Users\manue\OneDrive\Escritorio\proyecto\bin\Debug\net8.0\pryecto.dll
+C:\Users\manue\OneDrive\Escritorio\proyecto\bin\Debug\net8.0\pryecto.pdb
+C:\Users\manue\OneDrive\Escritorio\proyecto\obj\Debug\net8.0\pryecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Escritorio\proyecto\obj\Debug\net8.0\pryecto.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Escritorio\proyecto\obj\Debug\net8.0\pryecto.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Escritorio\proyecto\obj\Debug\net8.0\pryecto.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Escritorio\proyecto\obj\Debug\net8.0\pryecto.dll
+C:\Users\manue\OneDrive\Escritorio\proyecto\obj\Debug\net8.0\refint\pryecto.dll
+C:\Users\manue\OneDrive\Escritorio\proyecto\obj\Debug\net8.0\pryecto.pdb
+C:\Users\manue\OneDrive\Escritorio\proyecto\obj\Debug\net8.0\pryecto.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Escritorio\proyecto\obj\Debug\net8.0\ref\pryecto.dll
+C:\Users\manue\Desktop\proyecto\obj\Debug\net8.0\pryecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\Desktop\proyecto\obj\Debug\net8.0\pryecto.AssemblyInfoInputs.cache
+C:\Users\manue\Desktop\proyecto\obj\Debug\net8.0\pryecto.AssemblyInfo.cs
+C:\Users\manue\Desktop\proyecto\obj\Debug\net8.0\pryecto.csproj.CoreCompileInputs.cache
+C:\Users\manue\Desktop\proyecto\obj\Debug\net8.0\pryecto.dll
+C:\Users\manue\Desktop\proyecto\obj\Debug\net8.0\refint\pryecto.dll
+C:\Users\manue\Desktop\proyecto\obj\Debug\net8.0\pryecto.pdb
+C:\Users\manue\Desktop\proyecto\bin\Debug\net8.0\pryecto.exe
+C:\Users\manue\Desktop\proyecto\bin\Debug\net8.0\pryecto.deps.json
+C:\Users\manue\Desktop\proyecto\bin\Debug\net8.0\pryecto.runtimeconfig.json
+C:\Users\manue\Desktop\proyecto\bin\Debug\net8.0\pryecto.dll
+C:\Users\manue\Desktop\proyecto\bin\Debug\net8.0\pryecto.pdb
+C:\Users\manue\Desktop\proyecto\obj\Debug\net8.0\pryecto.genruntimeconfig.cache
+C:\Users\manue\Desktop\proyecto\obj\Debug\net8.0\ref\pryecto.dll
+c:\Users\Ivo\Desktop\proyecto\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Users\Ivo\Desktop\proyecto\obj\Debug\net8.0\pryecto.csproj.AssemblyReference.cache
+C:\Users\Ivo\Desktop\proyecto\obj\Debug\net8.0\pryecto.csproj.Up2Date
+c:\Users\Ivo\Desktop\proyecto back up\proyecto\bin\Debug\net8.0\pryecto.exe
+C:\Users\Ivo\Desktop\proyecto back up\proyecto\bin\Debug\net8.0\pryecto.deps.json
+C:\Users\Ivo\Desktop\proyecto back up\proyecto\bin\Debug\net8.0\pryecto.runtimeconfig.json
+c:\Users\Ivo\Desktop\proyecto back up\proyecto\bin\Debug\net8.0\pryecto.dll
+c:\Users\Ivo\Desktop\proyecto back up\proyecto\bin\Debug\net8.0\pryecto.pdb
+c:\Users\Ivo\Desktop\proyecto back up\proyecto\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Users\Ivo\Desktop\proyecto back up\proyecto\obj\Debug\net8.0\pryecto.csproj.AssemblyReference.cache
+c:\Users\Ivo\Desktop\proyecto back up\proyecto\obj\Debug\net8.0\pryecto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ivo\Desktop\proyecto back up\proyecto\obj\Debug\net8.0\pryecto.AssemblyInfoInputs.cache
+c:\Users\Ivo\Desktop\proyecto back up\proyecto\obj\Debug\net8.0\pryecto.AssemblyInfo.cs
+c:\Users\Ivo\Desktop\proyecto back up\proyecto\obj\Debug\net8.0\pryecto.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\proyecto back up\proyecto\obj\Debug\net8.0\pryecto.csproj.Up2Date
+c:\Users\Ivo\Desktop\proyecto back up\proyecto\obj\Debug\net8.0\pryecto.dll
+c:\Users\Ivo\Desktop\proyecto back up\proyecto\obj\Debug\net8.0\refint\pryecto.dll
+c:\Users\Ivo\Desktop\proyecto back up\proyecto\obj\Debug\net8.0\pryecto.pdb
+C:\Users\Ivo\Desktop\proyecto back up\proyecto\obj\Debug\net8.0\pryecto.genruntimeconfig.cache
+C:\Users\Ivo\Desktop\proyecto back up\proyecto\obj\Debug\net8.0\ref\pryecto.dll
